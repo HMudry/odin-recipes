@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color:hotpink;
+    text-decoration: underline;
+}
+
+img {
+    width:50vw;
+    height:auto;
+    display:block;
+    margin: auto;
+    border: solid black 2px;
+}
+
+.home-list * {
+  text-align:center;
+  list-style:inside;
+  font-size: 24px;
+
+}
+
